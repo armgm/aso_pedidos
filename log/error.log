@@ -1,0 +1,306 @@
+[Thu Nov 22 08:55:02 2007] [error] [client 190.38.105.173] File does not exist: /var/www/sisventas/phpmyadmin
+[Thu Nov 22 10:38:33 2007] [error] [client 216.9.250.37] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/
+[Thu Nov 22 10:43:46 2007] [error] [client 190.38.108.179] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/
+[Thu Nov 22 10:43:50 2007] [alert] [client 190.38.108.179] /var/www/sisventas/phpmyadmin/.htaccess: Option FollowSymLinks not allowed here
+[Thu Nov 22 10:43:53 2007] [alert] [client 190.38.108.179] /var/www/sisventas/phpmyadmin/.htaccess: Option FollowSymLinks not allowed here
+[Thu Nov 22 10:43:53 2007] [error] [client 190.38.108.179] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/phpmyadmin
+[Thu Nov 22 10:43:55 2007] [alert] [client 190.38.108.179] /var/www/sisventas/phpmyadmin/.htaccess: Option FollowSymLinks not allowed here
+[Thu Nov 22 10:43:55 2007] [error] [client 190.38.108.179] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/phpmyadmin
+[Thu Nov 22 10:43:56 2007] [alert] [client 190.38.108.179] /var/www/sisventas/phpmyadmin/.htaccess: Option FollowSymLinks not allowed here
+[Thu Nov 22 10:43:56 2007] [error] [client 190.38.108.179] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/phpmyadmin
+[Thu Nov 22 10:43:57 2007] [alert] [client 190.38.108.179] /var/www/sisventas/phpmyadmin/.htaccess: Option FollowSymLinks not allowed here
+[Thu Nov 22 11:55:40 2007] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//indexgte.php?vend=fvargas&fecha=octubre
+[Thu Nov 22 12:00:23 2007] [error] [client 216.9.250.34] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//menuven.php?vend=dariolope&fecha=octubre
+[Thu Nov 22 13:31:00 2007] [error] [client 190.38.108.179] File does not exist: /var/www/sisventas/favicon.ico
+[Thu Nov 22 13:51:31 2007] [error] [client 216.9.250.43] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//indexgte.php?vend=fvargas&fecha=noviembre
+[Thu Nov 22 13:51:53 2007] [error] [client 216.9.250.43] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//indexcor.php?vend=ALEXOROZC&fecha=noviembre
+[Thu Nov 22 13:52:57 2007] [error] [client 216.9.250.107] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//indexped.php?vend=ARNEIDOPA&fecha=noviembre&cor=ALEXOROZC
+[Thu Nov 22 14:01:38 2007] [error] [client 216.9.250.103] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//menuven.php?vend=arneidopa&fecha=octubre&zona=0101
+[Thu Nov 22 14:49:47 2007] [error] [client 216.9.250.97] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//menuven.php?vend=josecontr&fecha=noviembre&zona=0302
+[Thu Nov 22 14:50:29 2007] [error] [client 216.9.250.97] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//pedidos.php?vend=josecontr&fecha=noviembre&zona=0302
+[Thu Nov 22 15:36:27 2007] [error] [client 216.9.250.34] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//menuven.php?vend=bartolosa&fecha=octubre&zona=0103
+[Fri Nov 23 12:12:46 2007] [error] [client 216.9.250.118] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//menuven.php?vend=bartolosa&fecha=octubre
+[Fri Nov 23 14:18:53 2007] [error] [client 216.9.250.61] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//index.php
+[Fri Nov 23 23:50:55 2007] [error] [client 77.235.33.240] File does not exist: /var/www/sisventas/imghp
+[Sat Nov 24 17:14:35 2007] [error] [client 216.9.250.43] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/
+[Sun Nov 25 21:27:44 2007] [error] [client 122.99.60.122] File does not exist: /var/www/sisventas/check_proxy.html, referer: http://static.a-vbs.net
+[Mon Nov 26 08:48:42 2007] [error] [client 216.9.250.96] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap
+[Mon Nov 26 08:53:41 2007] [error] [client 216.9.250.112] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/indexped.php?vend=jean&fecha=septiembre
+[Mon Nov 26 09:01:05 2007] [error] [client 216.9.250.103] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/indexped.php?vend=jean&fecha=septiembre
+[Mon Nov 26 09:09:58 2007] [error] [client 216.9.250.96] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/indexped.php?vend=jean&fecha=septiembre
+[Mon Nov 26 09:15:06 2007] [error] [client 216.9.250.102] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/indexped.php?vend=jean&fecha=septiembre
+[Mon Nov 26 09:24:09 2007] [error] [client 216.9.250.112] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/detped.php?ped=AAL0009360&fecha=septiembre&zona=0103&vend=jean&cor=
+[Mon Nov 26 09:26:53 2007] [error] [client 216.9.250.112] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/detped.php?ped=AAL0009360&fecha=septiembre&zona=0103&vend=jean&cor=
+[Mon Nov 26 09:32:04 2007] [error] [client 216.9.250.112] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/indexped.php?vend=jean&fecha=septiembre
+[Mon Nov 26 09:32:39 2007] [error] [client 216.9.250.112] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/indexped.php?vend=jean&fecha=septiembre
+[Mon Nov 26 09:37:12 2007] [error] [client 216.9.250.96] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/detped.php?ped=AAL0009360&fecha=septiembre&zona=0103&vend=jean&cor=
+[Mon Nov 26 09:40:33 2007] [error] [client 216.9.250.96] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/indexped.php?vend=jean&fecha=septiembre
+[Mon Nov 26 09:41:53 2007] [error] [client 216.9.250.102] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/indexped.php?vend=jean&fecha=septiembre
+[Mon Nov 26 09:45:40 2007] [error] [client 216.9.250.112] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/indexped.php?vend=jean&fecha=septiembre
+[Mon Nov 26 09:47:14 2007] [error] [client 216.9.250.102] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/menuven.php?vend=jean&fecha=septiembre
+[Mon Nov 26 09:47:20 2007] [error] [client 216.9.250.112] script '/var/www/sisventas/wap/metaven.php' not found or unable to stat, referer: http://almasoii.no-ip.info/wap/menuven.php?vend=jean&fecha=septiembre
+[Mon Nov 26 09:55:16 2007] [error] [client 216.9.250.102] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/metaven.php?vend=jean&fecha=septiembre
+[Mon Nov 26 09:59:48 2007] [error] [client 216.9.250.96] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/pedidos.php?vend=jean&fecha=septiembre&zona=
+[Mon Nov 26 10:01:56 2007] [error] [client 216.9.250.102] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/pedidos.php?vend=jean&fecha=septiembre&zona=
+[Mon Nov 26 10:29:32 2007] [error] [client 216.9.250.96] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/pedidos.php?vend=jean&fecha=septiembre&zona=
+[Mon Nov 26 10:31:33 2007] [error] [client 216.9.250.112] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/pedidos.php?vend=jean&fecha=septiembre&zona=
+[Mon Nov 26 10:56:18 2007] [error] [client 216.9.250.103] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/pedidos.php?vend=jean&fecha=septiembre&zona=
+[Mon Nov 26 11:51:38 2007] [error] [client 216.9.250.102] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/pedidos.php?vend=jean&fecha=septiembre&zona=
+[Mon Nov 26 11:55:43 2007] [error] [client 216.9.250.103] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/pedidos.php?vend=jean&fecha=septiembre&zona=
+[Tue Nov 27 08:34:37 2007] [error] [client 216.9.250.102] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap
+[Tue Nov 27 08:35:05 2007] [error] [client 216.9.250.39] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/menuven.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 08:54:49 2007] [error] [client 216.9.250.101] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/
+[Tue Nov 27 08:59:26 2007] [error] [client 216.9.250.100] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/menuven.php?vend=jean&fecha=septiembre&zona=0103
+[Tue Nov 27 09:28:53 2007] [error] [client 216.9.250.107] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/
+[Tue Nov 27 09:29:44 2007] [error] [client 190.38.108.179] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/index.php
+[Tue Nov 27 09:45:31 2007] [error] [client 190.38.108.179] File does not exist: /var/www/sisventas/web, referer: http://almasoii.no-ip.info/
+[Tue Nov 27 09:47:28 2007] [error] [client 216.9.250.106] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/menuven.php?vend=jean&fecha=septiembre&zona=0103
+[Tue Nov 27 09:49:50 2007] [error] [client 216.9.250.106] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/index.php
+[Tue Nov 27 09:54:17 2007] [error] [client 216.9.250.42] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/index.php
+[Tue Nov 27 09:55:28 2007] [error] [client 216.9.250.43] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/index.php
+[Tue Nov 27 10:15:43 2007] [error] [client 216.9.250.35] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/
+[Tue Nov 27 10:32:31 2007] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 10:38:11 2007] [error] [client 216.9.250.34] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 10:51:28 2007] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 10:52:43 2007] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 10:53:35 2007] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 10:54:54 2007] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 11:02:44 2007] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 11:05:53 2007] [error] [client 216.9.250.34] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 11:07:14 2007] [error] [client 216.9.250.35] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 11:08:42 2007] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 11:09:59 2007] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 11:12:02 2007] [error] [client 216.9.250.35] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 11:13:26 2007] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 11:16:07 2007] [error] [client 216.9.250.118] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 11:24:41 2007] [error] [client 216.9.250.35] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 11:33:39 2007] [error] [client 216.9.250.35] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Tue Nov 27 13:38:48 2007] [alert] [client 190.38.108.179] /var/www/sisventas/phpmyadmin/.htaccess: Option FollowSymLinks not allowed here
+[Tue Nov 27 13:38:51 2007] [alert] [client 190.38.108.179] /var/www/sisventas/phpmyadmin/.htaccess: Option FollowSymLinks not allowed here
+[Tue Nov 27 15:35:21 2007] [error] [client 216.9.250.119] File does not exist: /var/www/sisventas/wap/wap, referer: http://almasoii.no-ip.info/wap/index.php
+[Tue Nov 27 15:35:22 2007] [error] [client 216.9.250.37] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/wap/menuven.php?vend=royramire&fecha=noviembre&zona=0202
+[Tue Nov 27 15:35:51 2007] [error] [client 216.9.250.120] File does not exist: /var/www/sisventas/wap/wap
+[Tue Nov 27 15:35:54 2007] [error] [client 216.9.250.37] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/wap/menuven.php?vend=royramire&fecha=noviembre&zona=0202
+[Tue Nov 27 15:36:39 2007] [error] [client 216.9.250.36] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/menuven.php?vend=royramire&fecha=noviembre&zona=0202
+[Tue Nov 27 17:50:10 2007] [error] [client 216.9.250.119] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/menuven.php?vend=royramire&fecha=noviembre
+[Wed Nov 28 08:24:34 2007] [error] [client 216.9.250.63] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jean&fecha=noviembre&zona=0103
+[Wed Nov 28 09:17:18 2007] [error] [client 216.9.250.97] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/menuven.php?vend=dariolope&fecha=noviembre&zona=0201
+[Wed Nov 28 09:50:20 2007] [error] [client 216.9.250.45] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/menuven.php?vend=enzomijar&fecha=noviembre&zona=0203
+[Wed Nov 28 10:16:03 2007] [error] [client 216.9.250.65] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=dariolope&fecha=noviembre&zona=0201
+[Wed Nov 28 10:20:52 2007] [error] [client 216.9.250.43] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/menuven.php?vend=enzomijar&fecha=septiembre&zona=0203
+[Wed Nov 28 10:21:08 2007] [error] [client 216.9.250.43] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/metaven.php?vend=enzomijar&fecha=septiembre
+[Wed Nov 28 10:21:50 2007] [error] [client 216.9.250.43] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=enzomijar&fecha=septiembre&zona=0203
+[Wed Nov 28 10:22:22 2007] [error] [client 216.9.250.43] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/indexped.php?vend=enzomijar&fecha=septiembre
+[Wed Nov 28 10:22:48 2007] [error] [client 216.9.250.43] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/detfac.php?fac=AA00020801&zona=0203&fecha=septiembre&vend=enzomijar&cor=
+[Wed Nov 28 10:23:20 2007] [error] [client 216.9.250.43] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/detped.php?ped=AA00008849&fecha=septiembre&zona=0203&vend=enzomijar&cor=
+[Wed Nov 28 10:25:17 2007] [error] [client 216.9.250.42] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/detped.php?ped=AAA0008857&fecha=septiembre&zona=0203&vend=enzomijar&cor=
+[Wed Nov 28 10:41:35 2007] [error] [client 190.38.108.179] File does not exist: /var/www/sisventas/favicon.ico
+[Wed Nov 28 10:46:36 2007] [error] [client 190.38.108.179] File does not exist: /var/www/sisventas/favicon.ico
+[Wed Nov 28 14:35:34 2007] [error] [client 190.38.108.179] File does not exist: /var/www/sisventas/favicon.ico
+[Wed Nov 28 14:48:51 2007] [error] [client 216.9.250.61] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/indexcor.php?vend=froilangu&fecha=noviembre
+[Wed Nov 28 14:49:13 2007] [error] [client 216.9.250.61] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/indexped.php?vend=JOSEMENDO&fecha=noviembre&cor=froilangu
+[Wed Nov 28 14:49:49 2007] [error] [client 216.9.250.61] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/detfac.php?fac=AA00022295&zona=0301&fecha=noviembre&vend=JOSEMENDO&cor=froilangu
+[Wed Nov 28 14:50:30 2007] [error] [client 216.9.250.61] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/detped.php?ped=AA00006453&fecha=noviembre&zona=0301&vend=JOSEMENDO&cor=froilangu
+[Wed Nov 28 14:53:37 2007] [error] [client 216.9.250.29] File does not exist: /var/www/sisventas/wap/wap, referer: http://almasoii.no-ip.info/wap/index.php
+[Wed Nov 28 14:53:37 2007] [error] [client 216.9.250.29] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/wap/menuven.php?vend=jhonnyagu&fecha=noviembre&zona=0304
+[Wed Nov 28 14:54:00 2007] [error] [client 216.9.250.61] File does not exist: /var/www/sisventas/wap/wap, referer: http://almasoii.no-ip.info/wap/index.php
+[Wed Nov 28 14:54:01 2007] [error] [client 216.9.250.29] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/wap/menuven.php?vend=jhonnyagu&fecha=noviembre&zona=0304
+[Wed Nov 28 14:54:25 2007] [error] [client 216.9.250.64] File does not exist: /var/www/sisventas/wap/wap, referer: http://almasoii.no-ip.info/wap/index.php
+[Wed Nov 28 14:54:26 2007] [error] [client 216.9.250.29] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/wap/menuven.php?vend=jhonnyagu&fecha=noviembre&zona=0304
+[Wed Nov 28 14:54:38 2007] [error] [client 216.9.250.64] File does not exist: /var/www/sisventas/wap/wap
+[Wed Nov 28 14:54:38 2007] [error] [client 216.9.250.29] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/wap/menuven.php?vend=jhonnyagu&fecha=noviembre&zona=0304
+[Wed Nov 28 14:55:48 2007] [error] [client 216.9.250.64] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/menuven.php?vend=jhonnyagu&fecha=noviembre&zona=0304
+[Wed Nov 28 14:56:14 2007] [error] [client 216.9.250.64] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=jhonnyagu&fecha=noviembre&zona=0304
+[Thu Nov 29 07:59:19 2007] [error] [client 122.99.60.56] File does not exist: /var/www/sisventas/check_proxy.html, referer: http://static.a-vbs.net
+[Fri Nov 30 09:54:07 2007] [error] [client 190.38.108.179] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/index.php
+[Sat Dec 01 10:19:44 2007] [error] [client 87.118.114.126] File does not exist: /var/www/sisventas/test.txt
+[Fri Dec 14 12:24:18 2007] [error] [client 190.38.99.64] File does not exist: /var/www/sisventas/favicon.ico
+[Fri Dec 14 12:25:22 2007] [alert] [client 190.38.99.64] /var/www/sisventas/phpmyadmin/.htaccess: Option FollowSymLinks not allowed here
+[Fri Dec 14 15:11:55 2007] [error] [client 216.9.250.111] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/
+[Fri Dec 14 15:43:51 2007] [error] [client 216.9.250.114] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap
+[Fri Dec 14 15:44:32 2007] [error] [client 216.9.250.114] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/
+[Fri Dec 14 15:45:49 2007] [error] [client 216.9.250.114] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/menuven.php?vend=josemonto&fecha=octubre&zona=0102
+[Fri Dec 14 15:46:40 2007] [error] [client 216.9.250.114] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/metaven.php?vend=josemonto&fecha=octubre
+[Fri Dec 14 15:20:34 2007] [error] [client 216.9.250.114] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/menuven.php?vend=josemonto&fecha=octubre
+[Fri Dec 14 15:58:08 2007] [error] [client 216.9.250.113] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/index.php
+[Fri Dec 14 16:23:57 2007] [error] [client 216.9.250.113] File does not exist: /var/www/sisventas/wap/wap, referer: http://almasoii.no-ip.info/wap/index.php
+[Fri Dec 14 16:23:58 2007] [error] [client 216.9.250.111] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/wap/menuven.php?vend=royramire&fecha=noviembre&zona=0202
+[Fri Dec 14 15:54:25 2007] [error] [client 216.9.250.111] File does not exist: /var/www/sisventas/wap/wap, referer: http://almasoii.no-ip.info/wap/index.php
+[Fri Dec 14 15:54:26 2007] [error] [client 216.9.250.111] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/wap/menuven.php?vend=royramire&fecha=noviembre&zona=0202
+[Fri Dec 14 16:24:57 2007] [error] [client 216.9.250.111] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/
+[Fri Dec 14 16:27:31 2007] [error] [client 216.9.250.106] File does not exist: /var/www/sisventas/wap/wap, referer: http://almasoii.no-ip.info/wap/
+[Fri Dec 14 16:27:37 2007] [error] [client 216.9.250.42] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/wap/menuven.php?vend=royramire&fecha=noviembre&zona=0202
+[Fri Dec 14 16:30:51 2007] [error] [client 216.9.250.43] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/menuven.php?vend=royramire&fecha=noviembre&zona=0202
+[Fri Dec 14 16:31:46 2007] [error] [client 216.9.250.43] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=royramire&fecha=noviembre&zona=0202
+[Fri Dec 14 16:39:07 2007] [error] [client 216.9.250.106] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/menuven.php?vend=royramire&fecha=noviembre
+[Fri Dec 14 16:50:34 2007] [error] [client 216.9.250.106] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/indexped.php?vend=royramire&fecha=noviembre
+[Fri Dec 14 16:51:20 2007] [error] [client 216.9.250.106] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/detped.php?ped=AA00014530&fecha=noviembre&zona=0202&vend=royramire&cor=
+[Fri Dec 14 17:09:08 2007] [error] [client 216.9.250.107] File does not exist: /var/www/sisventas/wap/wap, referer: http://almasoii.no-ip.info/wap/index.php
+[Fri Dec 14 17:09:10 2007] [error] [client 216.9.250.107] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap/wap/menuven.php?vend=eduardovi&fecha=noviembre&zona=0104
+[Fri Dec 14 17:10:09 2007] [error] [client 216.9.250.107] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/menuven.php?vend=eduardovi&fecha=noviembre&zona=0104
+[Fri Dec 14 16:40:53 2007] [error] [client 216.9.250.43] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info//wap/pedidos.php?vend=eduardovi&fecha=noviembre&zona=0104
+[Sat Dec 15 16:52:00 2007] [error] [client 216.9.250.108] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/wap
+[Thu Jan 03 09:08:37 2008] [error] [client 190.198.150.82] File does not exist: /var/www/sisventas/webmail
+[Thu Jan 03 09:08:40 2008] [error] [client 190.198.150.82] File does not exist: /var/www/sisventas/webmail
+[Thu Jan 03 09:41:24 2008] [error] [client 190.198.150.82] File does not exist: /var/www/sisventas/webmail
+[Thu Jan 03 09:43:20 2008] [error] [client 190.198.150.82] File does not exist: /var/www/sisventas/webmail
+[Thu Jan 03 09:47:21 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:47:21 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:47:21 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:47:24 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:47:24 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:47:24 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:47:52 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:47:52 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:47:52 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:47:53 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:47:53 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:47:53 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:47:53 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:47:53 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:47:53 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:47:54 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:47:54 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:47:54 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:47:54 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:47:54 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:47:54 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:47:54 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:47:54 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:47:54 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:47:55 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:47:55 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:47:55 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:47:55 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:47:55 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:47:55 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:47:55 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:47:55 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:47:55 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:49:13 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:49:13 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:49:13 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:49:16 2008] [error] [client 190.198.150.82] File does not exist: /var/www/sisventas/webmail
+[Thu Jan 03 09:49:35 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:49:35 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:49:35 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:49:40 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:49:40 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:49:40 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:50:11 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:50:11 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:50:11 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:53:15 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:53:15 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:53:15 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:54:11 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:54:11 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:54:11 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:54:12 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:54:12 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:54:12 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:54:13 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:54:13 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:54:13 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:54:17 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:54:17 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:54:17 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 09:54:23 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 09:54:23 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 09:54:23 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 10:05:21 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 10:05:21 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 10:05:21 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 10:15:24 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 10:15:24 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 10:15:24 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 10:19:07 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 10:19:07 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 10:19:07 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 10:19:12 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 10:19:12 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 10:19:12 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 10:19:16 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 10:19:16 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 10:19:16 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 10:20:53 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 10:20:53 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 10:20:53 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 10:20:54 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 10:20:54 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 10:20:54 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 10:20:56 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 10:20:56 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 10:20:56 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 10:21:07 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 10:21:07 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 10:21:07 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 10:22:52 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: open_basedir restriction in effect. File(/var/www/webmail/index.php) is not within the allowed path(s): (/var/www/sisventas/) in Unknown on line 0
+[Thu Jan 03 10:22:52 2008] [error] [client 190.198.150.82] PHP Warning:  Unknown: failed to open stream: Operation not permitted in Unknown on line 0
+[Thu Jan 03 10:22:52 2008] [error] [client 190.198.150.82] PHP Fatal error:  Unknown: Failed opening required '/var/www/webmail/index.php' (include_path='.:/usr/share/php:/usr/share/pear') in Unknown on line 0
+[Thu Jan 03 10:31:06 2008] [error] [client 216.9.250.35] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/webmail
+[Thu Jan 03 10:33:31 2008] [error] [client 190.198.150.82] File does not exist: /var/www/sisventas/favicon.ico
+[Thu Jan 03 10:34:04 2008] [error] [client 216.9.250.115] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/webmail
+[Thu Jan 03 10:35:39 2008] [error] [client 216.9.250.116] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=error&_code=0x199
+[Thu Jan 03 10:37:03 2008] [error] [client 216.9.250.98] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=error&_code=0x199
+[Thu Jan 03 11:43:39 2008] [error] [client 190.198.158.1] PHP Notice:  SMTP error: Failed to add recipient 'fgonzalez@asoportuguesa.com' in /var/www/sisventas/webmail/program/include/bugs.inc on line 95, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=compose
+[Thu Jan 03 11:43:44 2008] [error] [client 190.198.158.1] PHP Notice:  SMTP error: Failed to add recipient 'fgonzalez@asoportuguesa.com' in /var/www/sisventas/webmail/program/include/bugs.inc on line 95, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=compose
+[Thu Jan 03 11:43:50 2008] [error] [client 190.198.158.1] PHP Warning:  Cannot modify header information - headers already sent in /var/www/sisventas/webmail/program/include/rcube_html.inc on line 163, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=compose
+[Thu Jan 03 14:08:01 2008] [error] [client 190.198.158.1] File does not exist: /var/www/sisventas/favicon.ico
+[Thu Jan 03 15:20:53 2008] [error] [client 201.243.222.121] PHP Notice:  Authentication for framos failed (LOGIN): "a001 NO Login failed." in /var/www/sisventas/webmail/program/include/bugs.inc on line 95, referer: http://almasoii.no-ip.info/webmail/
+[Thu Jan 03 15:21:16 2008] [error] [client 201.243.222.121] PHP Notice:  Authentication for fpalacios failed (LOGIN): "a001 NO Login failed." in /var/www/sisventas/webmail/program/include/bugs.inc on line 95, referer: http://almasoii.no-ip.info/webmail/
+[Thu Jan 03 15:21:38 2008] [error] [client 201.243.222.121] PHP Notice:  Authentication for pbonilla failed (LOGIN): "a001 NO Login failed." in /var/www/sisventas/webmail/program/include/bugs.inc on line 95, referer: http://almasoii.no-ip.info/webmail/
+[Thu Jan 03 15:21:57 2008] [error] [client 201.243.222.121] PHP Notice:  Authentication for fgonzalez failed (LOGIN): "a001 NO Login failed." in /var/www/sisventas/webmail/program/include/bugs.inc on line 95, referer: http://almasoii.no-ip.info/webmail/
+[Thu Jan 03 15:23:04 2008] [error] [client 201.243.222.121] PHP Notice:  Authentication for mmontes failed (LOGIN): "a001 NO Login failed." in /var/www/sisventas/webmail/program/include/bugs.inc on line 95, referer: http://almasoii.no-ip.info/webmail/?_task=addressbook&_action=logout&true
+[Thu Jan 03 15:23:20 2008] [error] [client 201.243.222.121] PHP Notice:  Authentication for mmontes failed (LOGIN): "a001 NO Login failed." in /var/www/sisventas/webmail/program/include/bugs.inc on line 95, referer: http://almasoii.no-ip.info/webmail/
+[Thu Jan 03 15:27:24 2008] [error] [client 201.243.222.121] PHP Notice:  Authentication for leonardo.ponte failed (LOGIN): "a001 NO Login failed." in /var/www/sisventas/webmail/program/include/bugs.inc on line 95, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=logout&true
+[Thu Jan 03 15:27:41 2008] [error] [client 201.243.222.121] PHP Notice:  Authentication for leonardo.ponte failed (LOGIN): "a001 NO Login failed." in /var/www/sisventas/webmail/program/include/bugs.inc on line 95, referer: http://almasoii.no-ip.info/webmail/
+[Thu Jan 03 15:28:41 2008] [error] [client 201.243.222.121] PHP Notice:  Authentication for fpalacios failed (LOGIN): "a001 NO Login failed." in /var/www/sisventas/webmail/program/include/bugs.inc on line 95, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=logout&true
+[Thu Jan 03 15:31:39 2008] [error] [client 190.198.158.1] File does not exist: /var/www/sisventas/pdamail/styles, referer: http://almasoii.no-ip.info/pdamail/example.html
+[Thu Jan 03 15:31:39 2008] [error] [client 190.198.158.1] File does not exist: /var/www/sisventas/pdamail/dynContext.js, referer: http://almasoii.no-ip.info/pdamail/example.html
+[Thu Jan 03 15:31:39 2008] [error] [client 190.198.158.1] File does not exist: /var/www/sisventas/images, referer: http://almasoii.no-ip.info/pdamail/example.html
+[Thu Jan 03 15:57:46 2008] [error] [client 216.9.250.43] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail/htdocs
+[Thu Jan 03 16:04:53 2008] [error] [client 216.9.250.42] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail/htdocs/login.php
+[Thu Jan 03 16:09:50 2008] [error] [client 216.9.250.106] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail/htdocs/email.list.php?mbox=INBOX&sm=1
+[Thu Jan 03 16:49:02 2008] [error] [client 190.198.158.1] File does not exist: /var/www/sisventas/pdamail/htdocs/htdocs, referer: http://almasoii.no-ip.info/pdamail/htdocs/email.list.php?mbox=INBOX&sm=1
+[Fri Jan 04 10:49:09 2008] [error] [client 190.198.150.82] File does not exist: /var/www/sisventas/favicon.ico
+[Fri Jan 04 12:01:02 2008] [error] [client 190.198.150.82] PHP Notice:  Authentication for fvargas failed (LOGIN): "a001 NO Login failed." in /var/www/sisventas/webmail/program/include/bugs.inc on line 95, referer: http://almasoii.no-ip.info/webmail/
+[Fri Jan 04 12:01:18 2008] [error] [client 190.198.150.82] PHP Notice:  Authentication for fvargas failed (LOGIN): "a001 NO Login failed." in /var/www/sisventas/webmail/program/include/bugs.inc on line 95, referer: http://almasoii.no-ip.info/webmail/
+[Fri Jan 04 12:05:01 2008] [error] [client 190.198.150.82] PHP Notice:  Authentication for asuares failed (LOGIN): "a001 NO Login failed." in /var/www/sisventas/webmail/program/include/bugs.inc on line 95, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=logout&true
+[Fri Jan 04 12:05:28 2008] [error] [client 190.198.150.82] PHP Notice:  Authentication for frey failed (LOGIN): "a001 NO Login failed." in /var/www/sisventas/webmail/program/include/bugs.inc on line 95, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=logout&true
+[Mon Jan 07 11:46:05 2008] [error] [client 190.198.150.82] File does not exist: /var/www/sisventas/favicon.ico
+[Mon Jan 07 15:14:44 2008] [error] [client 190.198.150.82] PHP Warning:  Cannot modify header information - headers already sent in /var/www/sisventas/webmail/program/include/rcube_html.inc on line 163, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=compose
+[Mon Jan 07 15:16:28 2008] [error] [client 201.243.222.121] File does not exist: /var/www/sisventas/favicon.ico
+[Mon Jan 07 15:21:23 2008] [error] [client 201.243.222.121] PHP Warning:  tempnam() [<a href='function.tempnam'>function.tempnam</a>]: open_basedir restriction in effect. File(/tmp) is not within the allowed path(s): (/var/www/sisventas/) in /var/www/sisventas/webmail/program/steps/mail/upload.inc on line 41, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=compose
+[Mon Jan 07 15:21:23 2008] [error] [client 201.243.222.121] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/var/www/sisventas/phptmp/php0laQMz' to '' in /var/www/sisventas/webmail/program/steps/mail/upload.inc on line 42, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=compose
+[Mon Jan 07 15:22:25 2008] [error] [client 201.243.222.121] File does not exist: /var/www/sisventas/webmail/&_action=keep-alive&_t=1199733758125&_remote=1&_ts=1199733758126
+[Mon Jan 07 15:22:25 2008] [error] [client 201.243.222.121] PHP Warning:  Cannot modify header information - headers already sent in /var/www/sisventas/webmail/program/include/rcube_html.inc on line 163, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=compose
+[Tue Jan 08 08:48:43 2008] [error] [client 216.9.250.113] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail
+[Tue Jan 08 08:48:52 2008] [error] [client 216.9.250.65] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail/login.php?vwebmailsession=2eb65dc99f0024c79c78de0e7a258f99
+[Tue Jan 08 08:50:03 2008] [error] [client 216.9.250.44] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail/email.list.php
+[Tue Jan 08 08:50:35 2008] [error] [client 216.9.250.45] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail/email.compose.php
+[Tue Jan 08 08:59:53 2008] [error] [client 216.9.250.100] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail/login.php?vwebmailsession=cc6d6fda9839b0ae70a434f8c795abed
+[Tue Jan 08 09:01:54 2008] [error] [client 216.9.250.95] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail/frameset.php?vwebmailsession=&rframe=http%3A%2F%2Falmasoii.no-ip.info%2Fpdamail%2Femail.compose.php
+[Tue Jan 08 09:02:09 2008] [error] [client 216.9.250.95] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail/email.folders.php?vwebmailsession=&folder_frame=1
+[Tue Jan 08 20:53:37 2008] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail/login.php?vwebmailsession=52462d6ea5b9e52ed08d38c22a247bcc
+[Tue Jan 08 21:05:16 2008] [error] [client 216.9.250.34] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail/email.view.message.php?vwebmailsession=&msg_id=5&mbox=INBOX
+[Tue Jan 08 21:10:02 2008] [error] [client 216.9.250.35] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail/email.list.php?mbox=INBOX&sm=1
+[Tue Jan 08 21:12:31 2008] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail/email.list.php
+[Tue Jan 08 22:18:34 2008] [error] [client 216.9.250.38] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/
+[Wed Jan 09 03:17:06 2008] [error] [client 190.38.224.19] File does not exist: /var/www/sisventas/favicon.ico
+[Wed Jan 09 13:33:27 2008] [error] [client 216.9.250.106] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail
+[Thu Jan 10 18:40:26 2008] [error] [client 82.79.51.227] File does not exist: /var/www/sisventas/sumthin
+[Sat Jan 12 04:54:27 2008] [error] [client 64.208.172.176] File does not exist: /var/www/sisventas/robots.txt
+[Sat Jan 12 15:16:17 2008] [error] [client 216.9.250.114] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/webmail
+[Sat Jan 12 15:16:37 2008] [error] [client 216.9.250.114] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/webmail/
+[Sat Jan 12 15:17:19 2008] [error] [client 216.9.250.114] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=error&_code=0x199
+[Sat Jan 12 15:17:42 2008] [error] [client 216.9.250.114] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/webmail/?_task=mail
+[Sat Jan 12 15:18:33 2008] [error] [client 216.9.250.113] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=error&_code=0x199
+[Sat Jan 12 19:19:27 2008] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/webmail
+[Sat Jan 12 19:19:31 2008] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/webmail/
+[Sat Jan 12 19:19:52 2008] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/webmail/?_task=mail&_action=error&_code=0x199
+[Sat Jan 12 19:20:06 2008] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail
+[Sat Jan 12 19:20:22 2008] [error] [client 216.9.250.117] File does not exist: /var/www/sisventas/favicon.ico, referer: http://almasoii.no-ip.info/pdamail/login.php?vwebmailsession=cd88872f3244c6e5dc52ccd92a4bc098
+[Mon Feb 11 09:27:42 2008] [alert] [client 190.199.195.241] /var/www/sisventas/phpmyadmin/.htaccess: Option FollowSymLinks not allowed here
+[Mon Feb 11 09:34:10 2008] [alert] [client 190.199.195.241] /var/www/sisventas/phpmyadmin/.htaccess: Option FollowSymLinks not allowed here
+[Mon Feb 11 10:13:07 2008] [alert] [client 190.199.195.241] /var/www/sisventas/phpmyadmin/.htaccess: Option FollowSymLinks not allowed here

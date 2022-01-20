@@ -1,10 +1,6 @@
 <?php
-	include ("funciones.php");	
-
+include("funciones.php"); 
 	head();
-	
-
-//echo $_SERVER["HTTP_USER_AGENT"];	
 	
 ?>
 <script type="text/JavaScript">
@@ -34,7 +30,7 @@ function validaSubmite(){
  <?php
 	
  ?>
-<LINK REL="SHORTCUT ICON" HREF="LOGO.ico">
+
  <form id="form" name="form" method="post" action="autenticar.php">
   <table border='0'>
    <tr><td><img src="logo.jpg"/></td></tr>
@@ -60,14 +56,14 @@ function validaSubmite(){
    <tr>
 	<td>
 	    <select name='fecha'><option value=''>- seleccione -</option>
-				 <option value=enero>Enero</option>				 
-				 <option value=febrero>Febrero</option>				 
-				 <option value=marzo>Marzo</option>				 
-				 <option value=abril>Abril</option>
-				 <option value=mayo>Mayo</option>				 
-				 <option value=junio>Junio</option>				 
-				 <option value=julio>Julio</option>
-				 <option value=agosto>Agosto</option>             
+				 <option value=septiembre>Enero</option>				 
+				 <option value=septiembre>Febrero</option>				 
+				 <option value=septiembre>Marzo</option>				 
+				 <option value=septiembre>Abril</option>
+				 <option value=septiembre>Mayo</option>				 
+				 <option value=septiembre>Junio</option>				 
+				 <option value=septiembre>Julio</option>
+				 <option value=septiembre>Agosto</option>             
              <option value=septiembre>septiembre</option>
              <option value=octubre>Octubre</option>
              <option value=noviembre>Noviembre</option>
@@ -86,8 +82,7 @@ function validaSubmite(){
 	   </label>
 	</td>
    </tr>
-   <tr><td>El sistema Ya se encuentra disponible.</td></tr>		
-   <tr><td>Por Mantenimiento fueron restauradas todas las claves al  numero de cedula nuevamente.</td></tr>		
+   		
   </table>	
 </form>
 
